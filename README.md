@@ -14,8 +14,3 @@ Usage
 - Run the Python scanner locally: `python scanner.py`
 - Inspect or extend YARA rules in the `*.yar` files
 
-License
-- Add a license file if you plan to make this public.
-
-Contact
-- For questions, open an issue on the GitHub repository.
